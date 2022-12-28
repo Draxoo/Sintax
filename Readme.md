@@ -1,6 +1,5 @@
 ## C course 
- 
- -- Objetivos -- 
+
 
  - Fundamentos 
  - Compilador 
